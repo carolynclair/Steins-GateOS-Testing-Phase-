@@ -1,0 +1,14 @@
+# Requirements for Steins;GateOS
+# No external dependencies required - uses only Python standard library
+
+# Python 3.6+ required for f-strings and other modern syntax
+# Standard library modules used:
+# - os (for terminal operations)
+# - sys (for system operations) 
+# - time (for time operations)
+# - datetime (for date/time formatting)
+# - random (for world line fluctuations and random quotes)
+# - typing (for type hints)
+# - unittest (for testing)
+# - io (for testing string output)
+# - importlib.util (for test imports)

@@ -1,5 +1,5 @@
 # 🕰️ Steins;Gate OS 
-![Steins;Gate OS Logo](Steins;Logo.png)
+![Steins;Gate OS Logo](https://github.com/carolynclair/Steins-GateOS-Testing-Phase-/blob/main/Tuturuu%20First%20Edition.png)
 
 > **El Psy Kongroo.**
 

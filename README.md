@@ -1,5 +1,5 @@
 # 🕰️ Steins;Gate OS 
-![Logo](Tuturuu%20First%20Edition.png)
+![Logo](TuturuuFirstEdition.png)
 
 > **El Psy Kongroo.**
 

@@ -1,6 +1,6 @@
 # 🕰️ Steins;Gate OS
 
-![Steins;Gate Logo](assets/logos/SGLogo1.png)
+![Steins;Gate Logo](SGLogo1.png)
 
 > **El Psy Kongroo.**  
 > _A Linux distribution for those who dare to hack the divergence meter of reality._

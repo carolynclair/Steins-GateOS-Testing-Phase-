@@ -3,9 +3,34 @@
 <p align="center">
   <img src="Tuturuu%20First%20Edition.png" alt="Steins;Gate OS Preview" width="600">
 </p>
-> **El Psy Kongroo.**  
 
-> _A Linux distribution for those who dare to hack the divergence meter of reality._
+> **El Psy Kongroo.**
+
+_A Linux distribution for those who dare to hack the divergence meter of reality._
+
+---
+
+## ✨ Vision Statement
+
+**Steins;Gate OS** is a Debian-based distro that fuses cinematic anime aesthetics with frictionless onboarding and seamless integration.  
+It’s designed to be beautiful enough to admire and practical enough for everyday hacking, creating, and time-traveling.
+
+---
+
+## 🎯 Features
+- 🎨 Custom wallpapers, icons, and boot animations
+- 🖥️ Pre-configured desktop layout for instant immersion
+- ⚡ Optimized performance on both old and modern hardware
+- 🔧 Easy customization for your own personal timeline
+
+---
+
+## 📦 Installation
+```bash
+git clone https://github.com/yourusername/Steins-Gate-OS.git
+cd Steins-Gate-OS
+chmod +x install.sh
+./install.sh
 
 ---
 

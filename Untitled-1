@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "bashdb",
+      "request": "launch",
+      "name": "Debug live-build (ISO build)",
+      "program": "${workspaceFolder}/${input:buildScriptPath}",
+      "args": [],
+      "preLaunchTask": "install-live-build"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "buildScriptPath",
+      "type": "promptString",
+      "description": "Enter the relative path to your build script (e.g., chroot/debootstrap or your custom build script)"
+    }
+  ]
+}

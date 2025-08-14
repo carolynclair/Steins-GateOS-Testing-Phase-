@@ -1,8 +1,6 @@
 # 🕰️ Steins;Gate OS – *Tuturuu~ First Edition*
 
-<p align="center">
-  <img src="Tuturuu%20First%20Edition.png" alt="Steins;Gate OS Preview" width="600">
-</p>
+<img src="Tuturuu%20First%20Edition.png" alt="Steins;Gate OS Preview" width="600">>
 
 > **El Psy Kongroo.**
 

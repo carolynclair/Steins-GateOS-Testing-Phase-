@@ -1,6 +1,10 @@
-# 🕰️ Steins;Gate OS
+# 🕰️ Steins;Gate OS – *Tuturuu~ First Edition*
 
-<p align="center">  <img src="Tuturuu%20First%20Edition.png" alt="Steins;Gate OS Logo" width="300"/></p>
+<p align="center">
+  <img src="Tuturuu%20First%20Edition.png" alt="Steins;Gate OS Preview" width="600">
+</p>
+
+ alt="Steins;Gate OS Logo" width="300"/></p>
 # Steins;Gate OS*El Psy Kongroo.*  A Linux distribution for those who dare to hack the divergence meter of reality.
 
 > **El Psy Kongroo.**  
